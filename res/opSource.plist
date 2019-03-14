@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>1</key>
+            <string>_ATTACK_000.png</string>
+            <key>2</key>
+            <string>_ATTACK_001.png</string>
+            <key>3</key>
+            <string>_ATTACK_002.png</string>
+            <key>4</key>
+            <string>_ATTACK_003.png</string>
+            <key>5</key>
+            <string>_ATTACK_004.png</string>
+            <key>6</key>
+            <string>_ATTACK_005.png</string>
+            <key>7</key>
+            <string>_ATTACK_006.png</string>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>attack.png</string>
+            <key>size</key>
+            <string>{1024,2048}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:f9407e0c5aa5fbd5a61417476f31f9e0$</string>
+            <key>textureFileName</key>
+            <string>attack.png</string>
+        </dict>
+    </dict>
+</plist>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="60" height="40" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tileDemo" tilewidth="32" tileheight="32">
+  <image source="tileDemo.png" width="2048" height="2272"/>
+  <tile id="2847">
+   <properties>
+    <property name="co" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="bg" width="60" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztwzENAAAMBKFb3r/laugOCaumqqqqqqqqqqrq+wGewS7h
+  </data>
+ </layer>
+ <objectgroup name="obj1">
+  <object name="ninja" x="110.167" y="1168.33"/>
+ </objectgroup>
+ <layer name="fg" width="60" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztmV0ORUAMRj3IYGM2JliCxHbEvsTTTe69odLfGd/ZwLQ62lOqCoAPdfKOQA6rXPpO/4zR4IyTuaD6a5II9UitfhzADqt3sAQ4PXFDDwIvZL+YF3tjF4cE0TxCwtG83fjqfnixZDgTOV62Psx3yvD5cPnnSRx3org2Fa16DC+sMwXsQL7ceQNc+xfseX5I+oSVg0bxMk6+0TwlR6+kgH6rT6l3B5RNlDnyhKgxW/yTkwK+aUPkb6jfe7Kmj2E+AhCDAx/tFoQ=
+  </data>
+ </layer>
+ <layer name="coLayer" width="60" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztmE0OxCAIhbvvJeb+p5zMwmTS1IrwHgj1Jd0p+JWfoMeRT58z+gRc/fgaI5NVYpvhv/H9f14a+auaWz2uirxPMfbONw+NeCryImr4rg9l/FeWPh75r7T72TFi5EHW3GrymgOsuYU65xvjlZ139vw7xn57EfLuCZp8Qsszxtr6QXJ71uSdH+kshWb29DfrX7oGKSZzdB/rqSJvxF082mZErTBsomdz5Nki9kbJypuR2aqMzN7zZvQdMQvvdZ+2pqJ5pefuzcVP/V87S2vWSmzMxEj7dmAR432RvX6FdzmtrQoz2dbWFk6WXsa6E7HfPVa5061yl2RrxPgFbVYdvA==
+  </data>
+ </layer>
+</map>
